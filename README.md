@@ -4,7 +4,7 @@ Due Date: 01-30-23
 # MakeIt.hm (Make It Home)
 
 ## Proposer(s): 
-###     David Acevedo, daa467
+####     David Acevedo, daa467
 
 
 ### What and why?
