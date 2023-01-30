@@ -5,7 +5,6 @@ Due Date: 01-30-23
 
 ## Proposer(s):  David Acevedo, daa467
 
-
 ### What and why?
 
 What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important. product's value proposition.
